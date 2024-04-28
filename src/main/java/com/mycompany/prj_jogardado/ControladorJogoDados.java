@@ -21,11 +21,6 @@ public class ControladorJogoDados {
         jogadores.add(jogador);
     }
 
-    public void iniciarJogo() {
-        // Lógica para iniciar o jogo
-        // Por exemplo, aqui poderíamos exibir a interface gráfica de usuário
-        // e permitir que os jogadores interajam com o jogo
-    }
 
     public String jogarRodada(String nomeJogador) {
         // Lógica para jogar uma rodada do jogo
